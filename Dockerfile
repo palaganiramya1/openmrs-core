@@ -143,5 +143,4 @@ EXPOSE 8080
 CMD ["dumb-init", "/usr/local/tomcat/startup.sh"]
 
 
-finish
-
+finish the setup
